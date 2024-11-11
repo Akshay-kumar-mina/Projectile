@@ -1,4 +1,1 @@
-This is a Projectile Motion Simulation
-Using OpenCV to detect Hand gestures
-Using C++ and SFML for graphics
-Thanks for reading!
+
